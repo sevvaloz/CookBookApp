@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/cookListFragment">
+
+    <fragment
+        android:id="@+id/cookListFragment"
+        android:name="com.example.cookbook.CookListFragment"
+        android:label="fragment_cook_list"
+        tools:layout="@layout/fragment_cook_list" >
+        <action
+            android:id="@+id/action_cookListFragment_to_addCookFragment"
+            app:destination="@id/addCookFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addCookFragment"
+        android:name="com.example.cookbook.AddCookFragment"
+        android:label="fragment_add_cook"
+        tools:layout="@layout/fragment_add_cook" >
+        <action
+            android:id="@+id/action_addCookFragment_to_cookListFragment"
+            app:destination="@id/cookListFragment" />
+        <argument
+            android:name="info"
+            app:argType="string"
+            android:defaultValue="cameFromMenu" />
+        <argument
+            android:name="id"
+            app:argType="integer"
+            android:defaultValue="0" />
+    </fragment>
+</navigation>

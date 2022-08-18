@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\layout_recycler_row.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\menu_add_cook.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\menu\\add_cook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-pngs-40:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\layout_fragment_add_cook.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\layout\\fragment_add_cook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\drawable_theaddsymbol.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\drawable\\theaddsymbol.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\layout_fragment_cook_list.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\layout\\fragment_cook_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\navigation_navigation_graph.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\navigation\\navigation_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.cookbook.app-merged_res-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.cookbook.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-merged_res-45:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\7.3.3\\com.example.cookbook.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]
