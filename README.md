@@ -1,4 +1,4 @@
-I developed an Android Application called CookBook with Kotlin. In this application you can add food: food name, food recipe, food image.  And then you can save it. Every food's name you save, will be listed on the main screen.
+I developed an Android Application called CookBook with using Kotlin language and SQLite database. In this application you can add food: food name, food recipe, food image.  And then you can save it. Every food's name you save, will be listed on the main screen.
 
 ![cb1](https://user-images.githubusercontent.com/70901471/185613570-19810b23-c302-4734-9040-b6349ffeae3a.png)
 ![cb2](https://user-images.githubusercontent.com/70901471/185613577-5f31105a-31a6-49fc-8aea-90c2e6aac6b7.png)
